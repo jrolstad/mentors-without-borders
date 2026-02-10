@@ -1,2 +1,2 @@
-# mentors-without-borders
-Resources for Mentors Without Borders mentoring
+# Mentors Without Borders
+Resources for [Mentors Without Borders](https://www.mentorswithoutborders.net/) mentoring
